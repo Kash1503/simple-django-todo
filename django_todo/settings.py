@@ -27,7 +27,7 @@ SECRET_KEY = 'minpdwf8e+@*b5%%!v*o7z4mfqevyh=@-$ia-e_a3bwcd9-863'
 DEBUG = True
 
 ALLOWED_HOSTS = ['django-todo-kash1503.c9users.io',
-                'https://simple-django-todo-ci.herokuapp.com']
+                'simple-django-todo-ci.herokuapp.com']
 
 
 # Application definition
